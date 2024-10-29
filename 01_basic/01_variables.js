@@ -35,4 +35,5 @@ making modern JavaScript code cleaner and more reliable.}
 
 */
 
+
 console.table([accountId,accountEmail,,accountPassword,accountCity,accountState])
