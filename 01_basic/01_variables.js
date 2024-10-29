@@ -31,9 +31,13 @@ block-scoping, reducing errors and improving code readability.
 const also ensures constants stay unchanged,
 making modern JavaScript code cleaner and more reliable.}
 
+
+
 ******
 
 */
 
 
 console.table([accountId,accountEmail,,accountPassword,accountCity,accountState])
+
+/* every thing is running good */
