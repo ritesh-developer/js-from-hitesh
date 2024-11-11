@@ -10,5 +10,9 @@
  console.log ( 99.666 +944944) 
  let fruits = ["apple",  "banana", "cherry"];
  
+ 
+>
+
+ 
 
  console.log (fruits)
