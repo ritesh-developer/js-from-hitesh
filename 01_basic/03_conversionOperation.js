@@ -80,3 +80,6 @@ num1= num2 = num3 = 2 + 2
                           // most stuped way to write a code just bescuse you assine same number in all there num1,num2,num3 so please change these type of this (Harkat please 😂)
 
 console.log ( num1,num2,num3);
+
+
+// learn prefix and postfix please 
