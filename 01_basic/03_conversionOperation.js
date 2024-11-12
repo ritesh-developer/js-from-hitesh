@@ -58,7 +58,7 @@ console.log ( 1+ "2");
 console.log ("1" + 2 +2);
 console.log ( 1+ 2 + "2");
 
-/*
+
 let word1 = "1"
 let word2 = 2
 let word3 = word1+ word2 
@@ -66,4 +66,4 @@ let word3 = word1+ word2
 console.log ( word3)
 console.log (typeof word1)
 console.log (typeof word2)
-console.log (typeof word3)*/
+console.log (typeof word3)
