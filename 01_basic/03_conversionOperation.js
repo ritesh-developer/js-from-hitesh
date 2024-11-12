@@ -44,10 +44,26 @@ let negValue = -value
 //console.log (2**2);
 //console.log (2/2);
 //console.log (2%2);
-
+/*
 let str1 = "Ritesh "
 let str2 = "Kumar"
 let str3 = str1+str2
 console.log (str3);
 
-console.log (typeof str3) // know for typeof str3 what they actualy is that 
+console.log (typeof str3) // know for typeof str3 what they actualy is that and what its type;
+ */
+
+console.log ("1" + 2);
+console.log ( 1+ "2");
+console.log ("1" + 2 +2);
+console.log ( 1+ 2 + "2");
+
+/*
+let word1 = "1"
+let word2 = 2
+let word3 = word1+ word2 
+
+console.log ( word3)
+console.log (typeof word1)
+console.log (typeof word2)
+console.log (typeof word3)*/
