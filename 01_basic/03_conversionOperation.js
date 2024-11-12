@@ -47,5 +47,7 @@ let negValue = -value
 
 let str1 = "Ritesh "
 let str2 = "Kumar"
-let str3 = str1+str2;
+let str3 = str1+str2
 console.log (str3);
+
+console.log (typeof str3) // know for typeof str3 what they actualy is that 
