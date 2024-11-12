@@ -66,4 +66,4 @@ let word3 = word1+ word2
 console.log ( word3)
 console.log (typeof word1)
 console.log (typeof word2) //wait what is this 😣😶
-console.log (typeof word3) //what is this 🤔 js
+console.log (typeof word3) //what is this 🤔 js .
